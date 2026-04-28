@@ -1,10 +1,15 @@
 {
   "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cookie-parser": "^1.4.7",
     "ejs": "^5.0.2",
     "express": "^5.2.1",
+    "i": "^0.3.7",
+    "jsonwebtoken": "^9.0.3",
     "mongodb": "^7.2.0",
     "mongodb-memory-server": "^11.0.1",
     "mongoose": "^9.5.0",
-    "nodemon": "^3.1.14"
+    "nodemon": "^3.1.14",
+    "npm": "^11.13.0"
   }
 }
